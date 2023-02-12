@@ -1,0 +1,20 @@
+Replay-Buffer Capacity: 
+900000 
+FC Layer Parameters : 
+(100,) 
+Batch Size: 
+1024 
+Learning Rate: 
+0.002 
+Gamma: 
+0.97 
+Number of Atoms: 
+51 
+Minimal Q Value: 
+-20 
+Maximal Q Value: 
+20 
+Update every n Steps: 
+2 
+Epsilon Greedy: 
+0.3 

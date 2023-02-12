@@ -1,0 +1,48 @@
+Name:
+Standard
+Replay-Buffer Capacity:
+330000
+Total FC Layers:
+3
+Layer 1 Length:
+200
+Layer 2 Length:
+100
+Layer 3 Length:
+100
+Batch Size:
+4096
+Learning Rate:
+0.0005
+Allow Learning Rate Decay:
+False
+Learning Rate Decay Rate:
+-0.09
+Learning Rate Decay Threshold:
+500
+Minimum Learning Rate:
+0.0005
+Gamma:
+1.0
+Number of Atoms:
+51
+Minimal Q Value:
+Auto
+Maximal Q Value:
+Auto
+Update every n Steps:
+5
+Epsilon Greedy:
+1.0
+Allow Epsilon Decay:
+True
+Epsilon Decay Rate:
+-0.09
+Epsilon Decay Threshold:
+500
+Minimum Epsilon:
+0.01
+Reward Function:
+points_as_reward
+Environment:
+small_input

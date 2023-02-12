@@ -1,0 +1,18 @@
+Name: 
+Less Games More Train 10k
+Number of Initial Games: 
+100
+Collected Steps per Iteration : 
+1
+Collect Games every x Steps:
+5
+Number of Iterations: 
+10000
+Log Interval: 
+1 
+Number of Evaluation Episodes: 
+50
+Evaluation Interval: 
+250
+Decay Interval:
+500

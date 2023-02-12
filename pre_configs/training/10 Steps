@@ -1,0 +1,18 @@
+Name: 
+10 Steps
+Number of Initial Games: 
+0
+Collected Steps per Iteration : 
+1
+Collect Games every x Steps:
+1
+Number of Iterations: 
+10
+Log Interval: 
+1 
+Number of Evaluation Episodes: 
+5
+Evaluation Interval: 
+1
+Decay Interval:
+10

@@ -1,0 +1,12 @@
+Number of Initial Games: 
+100 
+Collected Steps per Iteration : 
+2 
+Number of Iterations: 
+500 
+Log Interval: 
+1 
+Number of Evaluation Episodes: 
+10 
+Evaluation Interval: 
+10 

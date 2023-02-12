@@ -1,0 +1,20 @@
+Setup Name:
+Standard No Decay Learning Rate
+Training Config Name:
+Standard 5k
+Game Config Name:
+Full Game
+Bid Config Name:
+Standard
+Play Config Name:
+Standard
+Agent Mode:
+MultiAgent
+Player Mode:
+BidPlay
+Existing Pre Trained Model:
+False
+Existing Bid Model Path:
+
+Existing Play Model Path:
+

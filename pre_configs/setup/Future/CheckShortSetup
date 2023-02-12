@@ -1,0 +1,19 @@
+Setup Name:
+CheckShortSetup
+Training Config Name:
+10 Steps
+Game Config Name:
+Small Game
+Bid Config Name:
+Standard No Decay LR EP
+Play Config Name:
+Standard No Decay LR EP
+Agent Mode:
+MultiAgent
+Player Mode:
+BidPlay
+Existing Pre Trained Model:
+False
+Existing Bid Model Path:
+
+Existing Play Model Path:

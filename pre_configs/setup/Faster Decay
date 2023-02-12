@@ -1,0 +1,19 @@
+Setup Name:
+Faster Decay
+Training Config Name:
+Standard 5k 250 Decay
+Game Config Name:
+Full Game 4 Players
+Bid Config Name:
+Decay
+Play Config Name:
+Decay
+Agent Mode:
+MultiAgent
+Player Mode:
+BidPlay
+Existing Pre Trained Model:
+False
+Existing Bid Model Path:
+
+Existing Play Model Path:
